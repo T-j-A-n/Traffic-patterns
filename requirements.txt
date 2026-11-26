@@ -1,0 +1,11 @@
+ipykernel
+matplotlib
+numpy
+openpyxl
+pandas
+pymysql
+pyspark
+requests
+scipy
+seaborn>=0.12
+sqlalchemy
